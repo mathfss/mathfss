@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Sou estudante de Engenharia de Software no Inatel (Instituto Nacional de Telecomunicações), atualmente estou no 6º período. 
+<p align="center">Sou estudante de Engenharia de Software no Inatel (Instituto Nacional de Telecomunicações), iniciei em 2022 e sigo graduando e avançando cada vez mais. 
 Possuo interesse em me aprofundar tanto em Front-End quanto em Back-End, sempre buscando expandir meus conhecimentos e habilidades como desenvolvedor!
   
 #
