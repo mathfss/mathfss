@@ -1,8 +1,7 @@
 # Olá! 👋 Eu sou Matheus Augusto de Faria Silveira
 
 💻 Estudante de Engenharia de Software no Inatel  
-🚀 Desenvolvedor Full Stack | Inteligência Artificial | Machine Learning  
-🔬 Pesquisador em Iniciação Científica no xGMobile/Inatel  
+🚀 Desenvolvedor Full Stack | Inteligência Artificial | Machine Learning    
 🌎 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas
 
 ---
@@ -66,20 +65,10 @@ Também atuo em projetos acadêmicos e profissionais envolvendo:
 
 ---
 
-## 🔬 Experiência
-
-### 🔹 Freelancer Developer
-Desenvolvimento e manutenção de soluções web para pequenos negócios, incluindo criação de sites, correção de bugs, implementação de funcionalidades e suporte técnico.
-
-### 🔹 Pesquisador de Iniciação Científica — xGMobile / Inatel
-Atuação com automação, análise de dados e Machine Learning, desenvolvendo scripts de automação e modelos de IA para predição de dados.
-
----
-
 ## 📫 Contato
 
 💼 LinkedIn:  
-<PRIVATE_URL>
+https://www.linkedin.com/in/matheus-augustofs/
 
 📌 GitHub:  
 https://github.com/mathfss
