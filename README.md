@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Matheus Augusto de Faria Silveira
+# Olá! 👋 Eu sou Matheus Augusto!
 
 💻 Estudante de Engenharia de Software no Inatel  
 🚀 Desenvolvedor Full Stack | Inteligência Artificial | Machine Learning    
